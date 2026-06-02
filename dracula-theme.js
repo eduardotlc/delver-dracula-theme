@@ -55,9 +55,8 @@ delver.setTheme({
 
     // text
     "dark-text-color-100": "#f8f8f2",
-    "dark-text-color-200": "#f1fa8c",
-    "dark-text-color-300": "#6272a4",
-
+    "dark-text-color-200": "#ecece6",
+    "dark-text-color-300": "#8be9fd",
 
 		// background colors
 		"dark-background-color-100": "#282a36",
