@@ -1,3 +1,4 @@
+// @ts-nocheck
 /*
  * @id dracula-theme
  * @name Dracula Theme
@@ -42,10 +43,8 @@
  * @icon_end
  * @developer Eduardo Campos
  * @developer_url https://github.com/eduardotlc
- * #282A36
  */
 
-// @ts-ignore
 delver.setTheme({
 	colors: {
 		primary: "#ff79c6",
